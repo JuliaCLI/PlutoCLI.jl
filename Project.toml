@@ -3,6 +3,10 @@ uuid = "7bac7b78-9528-45ef-8610-7ee14b3881e0"
 authors = ["Roger-luo <rogerluo.rl18@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Comonicon = "863f3e99-da2a-4334-8734-de3dacbe5542"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+
 [compat]
 julia = "1"
 
