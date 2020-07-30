@@ -1,2 +1,2 @@
 using Comonicon, PlutoCLI
-Comonicon.install(PlutoCLI, "pluto")
+Comonicon.install(PlutoCLI, "pluto"; compile=:min)
