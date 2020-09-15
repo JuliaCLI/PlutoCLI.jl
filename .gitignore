@@ -1,2 +1,8 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+precompile.jl
+build
 Manifest.toml
-build.log
+deps/build.log
+.vscode
